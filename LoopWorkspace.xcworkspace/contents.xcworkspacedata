@@ -130,6 +130,9 @@
       location = "group:LibreTransmitter/LibreTransmitter.xcodeproj">
    </FileRef>
    <FileRef
+      location = "group:GlucoseDirectClient/GlucoseDirectClient.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:LoopSupport/LoopSupport.xcodeproj">
    </FileRef>
    <FileRef
